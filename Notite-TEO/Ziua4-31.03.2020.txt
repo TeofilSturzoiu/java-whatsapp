@@ -1,0 +1,1 @@
+Permisiunile pentru aplicatie le gasesc in Manifests -> AndroidManifest.xml

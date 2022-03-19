@@ -1,0 +1,8 @@
+Am creat BlankFragments: Chats, Contacts, Groups.
+Din FrameLayout am transformat in RelativeLayout in toate Fragmentele.
+Am adaugat in MainActivity in functia onCreate ViewPager, TabsAccessorAdapter si TabLayout.
+
+
+
+
+

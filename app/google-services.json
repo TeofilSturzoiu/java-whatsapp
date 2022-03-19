@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65885763444",
+    "firebase_url": "https://whatsappcodingcafe-5c009.firebaseio.com",
+    "project_id": "whatsappcodingcafe-5c009",
+    "storage_bucket": "whatsappcodingcafe-5c009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65885763444:android:782802ee58acdebe621e21",
+        "android_client_info": {
+          "package_name": "com.example.whatsappcodingcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65885763444-d9n1j2p6t6vekrulihssbthudrnm7bs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappcodingcafe",
+            "certificate_hash": "2aacbd142db6991b8120e1bad6b3f1984249e54a"
+          }
+        },
+        {
+          "client_id": "65885763444-55j096cmm4hlcong1q6fcscp2oe5gmqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAscAqQKGdRrn40HbS9D-0x5D2-tUr17M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65885763444-55j096cmm4hlcong1q6fcscp2oe5gmqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

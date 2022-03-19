@@ -1,0 +1,5 @@
+Am conectat aplicatia la FireBase
+Am setat culorile din styles.xml
+Am adaugat Toolbar cu titlu si am rezolvat problema cu API Level https://stackoverflow.com/questions/33727460/call-requires-api-level-21-current-min-is-8
+Am adaugat Dependencies. M-au ajutat 2 link-uri: https://stackoverflow.com/questions/47707532/how-to-add-design-dependency-in-android-studio-3-0-its-not-working-in-standard
+						 https://stackoverflow.com/questions/57835034/com-android-supportdesign28-0-0-version-28-is-the-last-version-of-the-legacy
