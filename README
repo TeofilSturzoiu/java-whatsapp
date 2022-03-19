@@ -1,0 +1,6 @@
+In this project I followed some Youtube tutorials to create a social media
+app similar to WhatsApp.
+I implemented a login page, register and group-chat.
+In this process I used Google's Firebase Database and some design elements
+from the internet.
+Users can also update their profiles (add a photo and status message).
